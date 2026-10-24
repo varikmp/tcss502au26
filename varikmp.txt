@@ -1,2 +1,3 @@
 hello world from bob + alice + varik
-this new line is created by varik
+this new line is created by jonathan - modifying existing line
+test modify - new line
